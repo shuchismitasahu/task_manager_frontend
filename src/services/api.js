@@ -1,5 +1,5 @@
-// Base API URL — proxied to http://localhost:8080 via vite.config.js
-const BASE_URL = '/api'
+// Base API URL — points to deployed Render backend
+const BASE_URL = 'https://task-manager-backend-9uot.onrender.com/api'
 
 // Get JWT token from localStorage
 const getToken = () => localStorage.getItem('token')

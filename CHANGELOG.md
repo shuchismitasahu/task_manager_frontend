@@ -1,5 +1,8 @@
+## [1.9.4] - 2026-06-08
+- 1. points to deployed Render backend in app.js
+
 ## [1.9.3] - 2026-06-08
--1. added backend deployment endpoint in vite.config.js
+- 1. added backend deployment endpoint in vite.config.js
 
 ## [1.9.2] - 2026-06-08
 - 1. Change project structure
