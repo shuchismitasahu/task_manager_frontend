@@ -1,3 +1,6 @@
+## [1.9.2] - 2026-06-08
+- 1. Change project structure
+
 ## [1.9.1] - 2026-06-07
 
 ### Added
