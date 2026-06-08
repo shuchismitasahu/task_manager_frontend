@@ -1,3 +1,6 @@
+## [1.9.3] - 2026-06-08
+-1. added backend deployment endpoint in vite.config.js
+
 ## [1.9.2] - 2026-06-08
 - 1. Change project structure
 
